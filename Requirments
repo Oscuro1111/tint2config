@@ -1,0 +1,17 @@
+rofi
+warnia 
+>tint2rc open(not in zin)
+image from color build by pywal-color.jpg
+
+> cmd: ./warnai/warnai -xc /home/osdlock-u/.cache/wal/colors.Xresources -ob mek-oes -t floaty-rounded
+
+pip3 install pywal
+
+Icons theme:
+         destro-theme/La-Sierra.zip(drop box in sahiljarial1999@gmail.com)
+         put theme or extract them in
+            ./.icons
+
+put pusinfo script in PATH
+
+xfce4-terminal
